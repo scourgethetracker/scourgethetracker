@@ -1,8 +1,3 @@
- ## Personal Information                                                                       
- - **Location:** Greater Seattle Area, United States of America                                
- - **Contact:** [benjamin@vanackeran.org](mailto:benjamin@vanackeran.org)                      
- - **Phone:** 206-326-0142                                                                     
-                                                                                               
  ## Profile                                                                                    
  Customer-focused, highly motivated Senior DevOps, Security, and Infrastructure Engineering    
  professional with over 20 years of experience. Expert in creating innovative and repeatable   
