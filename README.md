@@ -1,4 +1,4 @@
- ## Profile                                                                                    
+ ## About                                                                                    
  Customer-focused, highly motivated Senior DevOps, Security, and Infrastructure Engineering    
  professional with over 20 years of experience. Expert in creating innovative and repeatable   
  solutions to DevOps, Developer Relations, security, infrastructure, and QA challenges in SaaS 
