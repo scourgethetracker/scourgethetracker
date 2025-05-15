@@ -1,5 +1,5 @@
  ## About                                                                                    
-**Site Reliability, Cloud & DevOps Engineer** with 10+ years of experience managing high-volume, customer-facing services in dynamic environments. Expertise in Amazon Web Services (AWS), Akamai, Linode, and Infrastructure as Code (CloudFormation, Terraform & Ansible). Passionate about improving service reliability through automation and monitoring with tools such as NewRelic, App Dynamics & Datadog. Proficient in Python, PHP, and Bash. Experienced technical lead and mentor with a strong background in incident response, GitOps practices (IaC, SCM, CI/CD), and performance testing.                                                                        
+**Staff Level Site Reliability, Cloud & DevOps Engineer** with 10+ years of experience managing high-volume, customer-facing services in dynamic environments. Expertise in Amazon Web Services (AWS), Akamai, Linode, and Infrastructure as Code (CloudFormation, Terraform & Ansible). Passionate about improving service reliability through automation and monitoring with tools such as NewRelic, App Dynamics & Datadog. Proficient in Python, PHP, and Bash. Experienced technical lead and mentor with a strong background in incident response, GitOps practices (IaC, SCM, CI/CD), and performance testing.                                                                        
 
 - 🔭 I’m currently working on security automation for Ubuntu.
 - 🌱 I’m currently learning FIDO2, U2F, Smart card, OTP, OpenPGP 3 standards and protocol implementation for hardware devices using SoloKeys and Yubico products.
@@ -32,57 +32,74 @@ Here are some ideas to get you started:
 
 ## Skills
 
-- **Cloud Platforms**: AWS (EC2, ECS, Lambda, S3), Akamai, Linode
-- **Infrastructure as Code (IaC)**: CloudFormation, Terraform, Ansible
-- **Programming Languages**: Python, PHP, Bash
-- **DevOps Practices**: CI/CD, GitOps, Incident Management
-- **Monitoring Tools**: NewRelic, AppDynamics, Datadog
-- **Linux System Administration**: Red Hat Enterprise Linux (RHEL), Networking
-- **Security**: PCI, ISO Audits, Vulnerability Management
-- **Automation**: Ansible, ETL Processes
-- **Version Control & CI/CD**: Git, Jenkins, GitOps
+**Programming Languages:** Python / PHP / HTML / CSS / JavaScript, Shell Scripting (BaSH / Bourne / ZSH), Java v1.4
+
+**Platforms** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+
+**Systems** Unix and Linux (RHEL / SunOS / AIX / Debian / BSD / VMS)
+
+**Compliance** ISO Compliance (9K / 27K / 31K), PCI DSS Compliance (v2 - v4), SOC2
+
+**Tools and Frameworks:** DevOps, GitOps, Agile (Srum Method), Software Development Life Cycle (SDLC), Site Reliability Engeering (SRE), IaC / Cloud Formation / Terraform, Virtualization (ESX / Containers), Configuration Management (Ansible / Puppet) , Visibility (Nagios / DataDog / AppDynamics / Splunk / Icinga), Continuous Deployment & Automation (Jenkins / Hudson / Git Actions), Firewall Management, AI Prompt Engineering, Revision Control (Git / Subversion / Perforce / VCS)
+
+**Languages:** English (native), German (native)
 
 ## Experience
 
-### **Staff DevOps Engineer (Senior Developer)**  
-*SAP Concur*  
-_09/2013 – 06/2024_
+**Staff DevOps Engineer**
+  : **SAP Concur**
+  : **Jul 2021 - Present**
 
-- Led a **microservice migration from on-premises to AWS**, driving cloud transformation and improving scalability.
-- Reduced **vulnerability remediation time by 99%** in the first 30 days.
-- Served as **Technical Lead** for cross-team support, collaborating across development teams to improve uptime and performance.
-- **Reduced incident detection and response times by 87%** through automation and monitoring solutions.
-- Led the implementation of **CI/CD pipelines**, reducing deploy times by 90%.
+- Led microservice migration and conversion from AWS to GCP and Azure.
+- Desgined best practices IaC using Terraform, CloudFormation and Ansibile
+- Technical lead for cross-team infra and dev support
+- Technical lead for internal and external security audits and patch cycles: PCI, ISO (27K & 31K) and SOC2
+- Reduced vulnerability remediation time and volume by 99% in the first 30 days
 
-### **Senior DevOps Engineer**  
-*Path*  
-_11/2012 – 09/2013_
 
-- Led virtualization platform migration to **ESX**, improving infrastructure stability.
-- Developed configuration management solutions that **reduced repeat problem incidents by 80%** in the first 180 days.
-- Served as the technical lead for PCI and ISO audit teams, ensuring security compliance.
+**Senior DevOps Engineer**
+  : **SAP Concur**
+  : **Sep 2013 - Jul 2021**
+- Led virtualization platform migration to ESX.
+- Designd configuration management, monitoring/response, and data management solutions and best practices
+  - reduced repeat problem incidents by 80% in the first 180 days
+  - reduced incident detection and response time by 87% in the first 90 days.
+- Created first DevOps and DevRel Wiki.
+- Technical lead for PCI and ISO audit teams
+- Technical lead for RelEng and CI/CD implementation
+  - reduced deploy times by 90%.
+- Technical lead for SRE on-call.
+- Led platform migrationand conversion from on-prem to AWS.
 
-### **Senior Software Engineer - DevOps**  
-*FuseSource*  
-_2010 – 2012_
 
-- Completed 70% of a stabilization project on aging infrastructure, reducing Java, Rails, and connectivity errors.
-- Developed custom **DevOps tooling** using Python, Bash, and Ruby to automate key infrastructure processes.
+**RedHat**
+  : **Senior Software Engineer**
+  : **Jan 2012 - Dec 2012**
 
-### **Senior Infrastructure Engineer - DevOps**  
-*GSI Commerce (Rue La La)*  
-_2012 – 2012_
+- Technical lead on stabilization project for 3-year-old infrastructure to reduce Java, Rails, and connectivity errors.
+- Technical lead for tooling using Python, Bourne, and Ruby
 
-- Managed a **$28-million revenue-generating infrastructure**, ensuring operational excellence.
-- Architected **load balancer, firewall, and RHEL deployment methods** for 0% downtime.
-- Led **PCI DSS v2.0 compliance** initiative to secure customer data and maintain regulatory compliance.
-- Led two **datacenter rebuilds**, optimizing infrastructure capacity.
+
+**RueLaLa**
+  : **Senior Infrastructure Engineer**
+  : **Jan 2009 - Dec 2011**
+
+- Managed a $28-million revenue-generating infrastructure.
+- Desgned load-balancer, firewall, Oracle DB, and RHEL machine deployment methods for 0% downtime.
+- Technical lead for PCI DSS v2.0 initiative.
+- Technical lead for two datacenter rebuilds.
+- Technical lead for GSI Enterprise Service Bus (ESB) project.
+  - Desgined ESB infrastructure to support 3M+ OLTP and OLAP transactions.
+- Technical lead for the Rue La La blog site.
+
+**TIBCO**
+  : **Senior Infrastructure Engineer**
+  : **Jan 2008 - Dec 2009**
+
+**Google**
+  : **Applications Engineer**
+  : **Jan 2006 - Dec 2008**
 
 ## Open Source Contributions
 
 - Contributed to various **DevOps and Cloud projects** on GitHub, including tools for automation, infrastructure management, and performance monitoring.
-
----                                                                                           
-                                                                                               
- Feel free to reach out to me for collaborations or if you need guidance in the DevOps and clo 
- infrastructure space. Let's innovate together!
