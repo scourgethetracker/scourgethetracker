@@ -48,7 +48,3 @@ Here are some ideas to get you started:
 **Tools and Frameworks:** DevOps, GitOps, Agile (Srum Method), Software Development Life Cycle (SDLC), Site Reliability Engeering (SRE), IaC / Cloud Formation / Terraform, Virtualization (ESX / Containers), Configuration Management (Ansible / Puppet) , Visibility (Nagios / DataDog / AppDynamics / Splunk / Icinga), Continuous Deployment & Automation (Jenkins / Hudson / Git Actions), Firewall Management, AI Prompt Engineering, Revision Control (Git / Subversion / Perforce / VCS)
 
 **Languages:** English (native), German (native)
-
-## Open Source Contributions
-
-[![Scourge's GitHub stats](https://github-readme-stats.vercel.app/api?username=scourgethetracker)](https://github.com/anuraghazra/github-readme-stats)    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scourgethetracker)
